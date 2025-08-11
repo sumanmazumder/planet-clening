@@ -14,7 +14,7 @@
                 <div class="page-header__inner">
                     <h2 class="wow fadeInDown" data-wow-duration="1500ms">Services 02</h2>
                     <ul class="thm-breadcrumb wow fadeInUp" data-wow-duration="1500ms">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span class="icon-right-arrow1"></span></li>
                         <li>Services 02</li>
                     </ul>
@@ -37,12 +37,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">Office Cleaning</a></h2>
+                                <h2><a href="bank-cleaning.php">Bank Cleaning</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -57,12 +57,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">House Cleaning</a></h2>
+                                <h2><a href="bank-cleaning.php">Parking Lot Line Painting</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -77,12 +77,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">Car Cleaning</a></h2>
+                                <h2><a href="bank-cleaning.php">Parking Lot Cleaning</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -97,12 +97,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">Window Cleaning</a></h2>
+                                <h2><a href="bank-cleaning.php">Carpet Steam Cleaning</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -117,12 +117,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">Plumbing Service</a></h2>
+                                <h2><a href="bank-cleaning.php">Spring Cleaning</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -137,12 +137,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">Laundry Service</a></h2>
+                                <h2><a href="bank-cleaning.php">Pressure Washing Service</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -157,12 +157,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">Carpet Cleaning</a></h2>
+                                <h2><a href="bank-cleaning.php">Gym Cleaning</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -177,12 +177,12 @@
                             </div>
 
                             <div class="services-two__single-content">
-                                <h2><a href="house-cleaning.html">Floor Cleaning</a></h2>
+                                <h2><a href="bank-cleaning.php">Commercial Cleaning</a></h2>
                                 <p>It is a long established fact that a reader will be distracted by the
                                     readable content...
                                 </p>
                                 <div class="btn-box">
-                                    <a href="house-cleaning.html">Read more <span class="icon-plus"></span></a>
+                                    <a href="bank-cleaning.php">Read more <span class="icon-plus"></span></a>
                                 </div>
                             </div>
                         </div>
