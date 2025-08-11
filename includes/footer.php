@@ -21,6 +21,7 @@
                                 <div class="footer-widget__about-social-links">
                                     <ul>
                                         <li><a href="#"><span class="icon-facebook-app-symbol"></span></a></li>
+                                        <li><a href="#"><span class="icon-linkedin-big-logo"></span></a></li>
                                         <li><a href="#"><span class="icon-instagram"></span></a></li>
                                     </ul>
                                 </div>

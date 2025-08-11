@@ -300,34 +300,6 @@
                             <!--End Sidebar Single-->
 
                             <!--Start Sidebar Single-->
-                            <div class="sidebar__single sidebar__categories">
-                                <div class="title-box">
-                                    <h2>Categories</h2>
-                                </div>
-
-                                <ul class="sidebar__categories-list">
-                                    <li><a class="active" href="blog-details-right.html">House Cleaning <span
-                                                class="icon-right-arrow1"></span></a></li>
-                                    <li><a href="blog-details-right.html">Office Cleaning <span
-                                                class="icon-right-arrow1"></span></a></li>
-                                    <li><a href="blog-details-right.html">Commercial Cleaning <span
-                                                class="icon-right-arrow1"></span></a></li>
-                                    <li><a href="blog-details-right.html">Residential Cleaning <span
-                                                class="icon-right-arrow1"></span></a>
-                                    </li>
-                                    <li><a href="blog-details-right.html">Window Cleaning <span
-                                                class="icon-right-arrow1"></span></a></li>
-                                    <li><a href="blog-details-right.html">Carpet Cleaning <span
-                                                class="icon-right-arrow1"></span></a></li>
-                                    <li><a href="blog-details-right.html">Floor Cleaning <span
-                                                class="icon-right-arrow1"></span></a></li>
-                                    <li><a href="blog-details-right.html">Car Cleaning <span
-                                                class="icon-right-arrow1"></span></a></li>
-                                </ul>
-                            </div>
-                            <!--End Sidebar Single-->
-
-                            <!--Start Sidebar Single-->
                             <div class="sidebar__single sidebar__recent-post">
                                 <div class="title-box">
                                     <h2>Recent Posts</h2>
@@ -392,23 +364,7 @@
                             </div>
                             <!--End Sidebar Single-->
 
-                            <!--Start Sidebar Single-->
-                            <div class="sidebar__single sidebar__tags">
-                                <div class="title-box">
-                                    <h2>Tags</h2>
-                                </div>
-                                <ul class="sidebar__tags-list">
-                                    <li><a href="#">Cleaning</a></li>
-                                    <li><a href="#">Moping</a></li>
-                                    <li><a href="#">Commercial</a></li>
-                                    <li><a href="#">Dusting</a></li>
-                                    <li><a href="#">Eco-friendly</a></li>
-                                    <li><a href="#">DeepClean</a></li>
-                                    <li><a href="#">Window Cleaning</a></li>
-                                    <li><a href="#">House Cleaning</a></li>
-                                </ul>
-                            </div>
-                            <!--End Sidebar Single-->
+                            
                         </div>
                     </div>
                     <!--End Sidebar-->

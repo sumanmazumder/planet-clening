@@ -143,7 +143,7 @@
                             <div class="main-menu__wrapper-inner">
                                 <div class="main-header-one__bottom-left">
                                     <div class="logo-one">
-                                        <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                                        <a href="index.php"><img src="assets/images/resources/logo-1.png" alt=""></a>
                                     </div>
                                 </div>
 
@@ -161,29 +161,47 @@
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
-                                                <a href="#">Services</a>
+                                                <a href="services.php">Services</a>
                                                 <ul class="shadow-box">
-                                                    <li><a href="bank-cleaning.php">Bank Cleaning</a></li>
-                                                    <li><a href="parking-lot-line-painting.php">Parking Lot Line Painting</a></li>
-                                                    <li><a href="parking-lot-cleaning.php">Parking Lot Cleaning</a></li>
-                                                    <li><a href="carpet-steam-cleaning.php">Carpet Steam Cleaning</a></li>
-                                                    <li><a href="move-in-&-move-out-elevator.php">Move In & Move Out Elevator</a></li>
-                                                    <li><a href="window-cleaning-up-to-6-floors.php">Window Cleaning Up To 6 Floors</a></li>
-                                                    <li><a href="spring-cleaning.php">Spring Cleaning</a></li>
-                                                    <li><a href="pressure-washing-service.php">Pressure Washing Service</a></li>
-                                                    <li><a href="gym-cleaning.php">Gym Cleaning</a></li>
-                                                    <li><a href="commercial-cleaning.php">Commercial Cleaning</a></li>
-                                                    <li><a href="medical-&-dentist-cleaning.php">Medical & Dentist Cleaning</a></li>
-                                                    <li><a href="shopping-center-cleaning.php">Shopping Center Cleaning</a></li>
-                                                    <li><a href="school-cleaning.php">School Cleaning</a></li>
-                                                    <li><a href="green-cleaning.php">Green Cleaning</a></li>
-                                                    <li><a href="construction-cleaning.php">Construction Cleaning</a></li>
-                                                    <li><a href="little-pick-up-cleaning.php">Little Pick Up Cleaning</a></li>
-                                                    <li><a href="post-construction-cleaning.php">Post Construction Cleaning</a></li>
-                                                    <li><a href="office-building-cleaning.php">Office Building Cleaning</a></li>
-                                                    <li><a href="carpet-cleaning.php">Carpet Cleaning</a></li>
-                                                    <li><a href="move-in-&-move-out-cleaning.php">Move In & Move Out Cleaning</a></li>
-                                                    <li><a href="residential-building-maintenance.php">Residential Building Maintenance</a></li>
+                                                    <li class="dropdown">
+                                                        <a href="#">Official Services</a>
+                                                        <ul>
+                                                            <li><a href="bank-cleaning.php">Bank Cleaning</a></li>
+                                                            <li><a href="parking-lot-line-painting.php">Parking Lot Line Painting</a></li>
+                                                            <li><a href="parking-lot-cleaning.php">Parking Lot Cleaning</a></li>
+                                                            <li><a href="carpet-steam-cleaning.php">Carpet Steam Cleaning</a></li>
+                                                            <li><a href="move-in-&-move-out-elevator.php">Move In & Move Out Elevator</a></li>
+                                                            <li><a href="window-cleaning-up-to-6-floors.php">Window Cleaning Up To 6 Floors</a></li>
+                                                            <li><a href="spring-cleaning.php">Spring Cleaning</a></li>
+                                                            <li><a href="pressure-washing-service.php">Pressure Washing Service</a></li>
+                                                        </ul>
+                                                    </li>
+
+                                                    <li class="dropdown">
+                                                        <a href="#">Commercial Services</a>
+                                                        <ul>
+                                                            <li><a href="gym-cleaning.php">Gym Cleaning</a></li>
+                                                            <li><a href="commercial-cleaning.php">Commercial Cleaning</a></li>
+                                                            <li><a href="medical-&-dentist-cleaning.php">Medical & Dentist Cleaning</a></li>
+                                                            <li><a href="shopping-center-cleaning.php">Shopping Center Cleaning</a></li>
+                                                            <li><a href="school-cleaning.php">School Cleaning</a></li>
+                                                            <li><a href="green-cleaning.php">Green Cleaning</a></li>
+                                                            <li><a href="construction-cleaning.php">Construction Cleaning</a></li>
+                                                            <li><a href="little-pick-up-cleaning.php">Little Pick Up Cleaning</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li class="dropdown">
+                                                        <a href="#">More Services</a>
+                                                        <ul>
+                                                            <li><a href="post-construction-cleaning.php">Post Construction Cleaning</a></li>
+                                                            <li><a href="office-building-cleaning.php">Office Building Cleaning</a></li>
+                                                            <li><a href="carpet-cleaning.php">Carpet Cleaning</a></li>
+                                                            <li><a href="move-in-&-move-out-cleaning.php">Move In & Move Out Cleaning</a></li>
+                                                            <li><a href="residential-building-maintenance.php">Residential Building Maintenance</a></li>
+                                                        </ul>
+                                                    </li>                                                    
+                                                    
+                                                    
                                                 </ul>
                                             </li>
                                             <li class="">
@@ -199,7 +217,7 @@
 
                                 <div class="main-header-one__bottom-right">
                                     <div class="main-header__btn">
-                                        <a class="thm-btn" href="contact-1.html">Get a Quote
+                                        <a class="thm-btn" href="contact-us.php">Get a Quote
                                             <i class="icon-next"></i>
                                             <span class="hover-btn hover-bx"></span>
                                             <span class="hover-btn hover-bx2"></span>

@@ -11,6 +11,14 @@ Working Process One
     z-index: 1;
 }
 
+.working-process-one::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url(../../images/backgrounds/01.jpg) no-repeat center/cover;
+  opacity: 0.1; /* adjust transparency */
+  z-index: -1;
+}
 .working-process-one .shape2 {
     position: absolute;
     top: 0;
